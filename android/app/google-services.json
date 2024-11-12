@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946587937825",
+    "project_id": "reciprocalsolutions-95640",
+    "storage_bucket": "reciprocalsolutions-95640.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946587937825:android:eb627e450332c2dbce0760",
+        "android_client_info": {
+          "package_name": "com.example.ec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946587937825-4i8f1iaef3h1u5ehmku2asu5a9g45266.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fMmjRE6q1g9Bfn86gxK6c1q2JCX6sTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946587937825-4i8f1iaef3h1u5ehmku2asu5a9g45266.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
